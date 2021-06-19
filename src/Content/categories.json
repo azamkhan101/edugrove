@@ -1,0 +1,32 @@
+{
+  "first": [{ "name": "Computer Programming", "id": 1 }],
+  "second": [
+    { "name": "Data Structures & Algorithms", "id": 2 },
+    { "name": "Database Systems", "id": 3 },
+    { "name": "Object Oriented Programming", "id": 4 },
+    { "name": "Logic in Computer Science", "id": 5 },
+    { "name": "Digital Design", "id": 6 },
+    { "name": "Discrete Structures for Computer Science", "id": 7 },
+    { "name": "Microprocessors & Interfacing", "id": 8 }
+  ],
+  "third": [
+    { "name": "Principles of Programming Languages", "id": 9 },
+    { "name": "Computer Networks", "id": 10 },
+    { "name": "Computer Architecture", "id": 11 },
+    { "name": "Theory of Computation", "id": 12 },
+    { "name": "Compiler Construction", "id": 13 },
+    { "name": "Design & Analysis of Algorithms", "id": 14 },
+    { "name": "Operating Systems", "id": 15 }
+  ],
+  "electives": [
+    { "name": "Artificial Intelligence", "id": 16 },
+    { "name": "Data Mining", "id": 17 },
+    { "name": "Information Retrieval", "id": 18 },
+    { "name": "Cryptography", "id": 19 },
+    { "name": "Number Theory", "id": 20 },
+    { "name": "Service Oriented Computing", "id": 21 },
+    { "name": "Quantum Computing", "id": 22 },
+    { "name": "Machine Learning", "id": 23 },
+    { "name": "Foundations of Data Science", "id": 24 }
+  ]
+}
