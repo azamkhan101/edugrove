@@ -1,0 +1,74 @@
+{
+  "roadmaps": [
+    {
+      "name": "Go Development",
+      "id": 1,
+      "image": "https://github.com/Alikhll/golang-developer-roadmap/raw/master/golang-developer-roadmap.png"
+    },
+    {
+      "name": "Java Development",
+      "id": 2,
+      "image": "https://github.com/s4kibs4mi/java-developer-roadmap/raw/master/java-developer-roadmap.png"
+    },
+    {
+      "name": "Rust Development",
+      "id": 3,
+      "image": "https://github.com/anshulrgoyal/rust-web-developer-roadmap/raw/master/rust-web-developer-roadmap.png"
+    },
+    {
+      "name": "NodeJS Development",
+      "id": 4,
+      "image": "https://github.com/aliyr/Nodejs-Developer-Roadmap/raw/master/Node.js-developer-roadmap.png"
+    },
+    {
+      "name": "Web Development",
+      "id": 5,
+      "image": "https://github.com/kamranahmedse/developer-roadmap/raw/master/img/intro.png?v=2021"
+    },
+    {
+      "name": "Frontend Web",
+      "id": 6,
+      "image": "https://github.com/kamranahmedse/developer-roadmap/raw/master/img/frontend.png?year-2021-2"
+    },
+    {
+      "name": "Backend Web",
+      "id": 7,
+      "image": "https://github.com/kamranahmedse/developer-roadmap/raw/master/img/backend.png?year-2021-2"
+    },
+    {
+      "name": "ReactJS",
+      "id": 8,
+      "image": "https://github.com/adam-golab/react-developer-roadmap/raw/master/roadmap.png"
+    },
+    {
+      "name": "Angular",
+      "id": 9,
+      "image": "https://github.com/sulco/angular-developer-roadmap/raw/master/angular-dev-roadmap.png"
+    },
+    {
+      "name": "VueJS",
+      "id": 10,
+      "image": "https://github.com/flaviocopes/vue-developer-roadmap/raw/master/roadmap.svg"
+    },
+    {
+      "name": "Laravel",
+      "id": 11,
+      "image": "https://github.com/Hasnayeen/laravel-developer-roadmap/raw/master/images/roadmap.png"
+    },
+    {
+      "name": "Android Development",
+      "id": 12,
+      "image": "https://github.com/anacoimbrag/android-developer-roadmap/raw/master/images/android_roadmap.png"
+    },
+    {
+      "name": "Flutter",
+      "id": 13,
+      "image": "https://github.com/olexale/flutter_roadmap/raw/master/images/FlutterRoadmap.png"
+    },
+    {
+      "name": "Game dev",
+      "id": 14,
+      "image": "https://github.com/miloyip/game-programmer/raw/master/game-programmer.jpg"
+    }
+  ]
+}

@@ -11,6 +11,9 @@ class Navbar extends Component {
           </h1>
         </Link>
         <div className='nav-tems'>
+          <Link to='/roadmaps'>
+            <h1>Roadmaps</h1>
+          </Link>
           <Link to='/courses'>
             <h1>Courses</h1>
           </Link>

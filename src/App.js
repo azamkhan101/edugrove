@@ -5,6 +5,8 @@ import HomePage from "./Components/Homepage";
 import CoursePage from "./Components/CoursePage";
 import ElectivesPage from "./Components/ElectivesPage";
 import SubjectPage from "./Components/SubjectPage";
+import Roadmap from "./Components/Roadmap";
+import Roadmaps from "./Components/Roadmaps";
 
 function App() {
   return (
@@ -23,6 +25,16 @@ function App() {
             exact
             path='/subject/:id'
             render={(props) => <SubjectPage {...props} />}
+          />
+          <Route
+            exact
+            path='/roadmap/:id'
+            render={(props) => <Roadmap {...props} />}
+          />
+          <Route
+            exact
+            path='/roadmaps'
+            render={(props) => <Roadmaps {...props} />}
           />
         </Switch>
       </Router>

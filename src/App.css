@@ -514,14 +514,28 @@ body {
   background-image: url("https://i.postimg.cc/s2G8FBBs/trianglify-lowres-5.png");
 }
 
-.course-tile p {
+.roadmaps {
+  background-image: url("https://i.postimg.cc/rybJd5Jk/trianglify-lowres-6.png");
+}
+
+.roadmaps-tile {
+  height: 120px;
+  width: 240px;
+  backdrop-filter: blur(9px);
+  border-radius: 20px;
+  margin: 10px;
+}
+
+.course-tile p,
+.roadmaps-tile p {
   font-weight: bold;
   font-size: 28px;
   padding: 5px;
   margin: auto 10px;
 }
 
-a .course-tile {
+a .course-tile,
+a .roadmaps-tile {
   text-decoration: none;
   color: #17706e;
 }
@@ -570,4 +584,8 @@ a .course-tile {
 
 .nav-tems {
   display: flex;
+}
+
+.roadmap-title {
+  text-align: center;
 }

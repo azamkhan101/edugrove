@@ -499,31 +499,31 @@
       "name": "Artificial Intelligence",
       "books": [
         {
-          "name": "Database System Concepts",
-          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+          "name": "Artificial Intelligence : A Modern Approach",
+          "link": "https://drive.google.com/file/d/14QfeaBHzxZTisdr54gagEo3oVHgUrMBx/view?usp=sharing"
         },
         {
-          "name": "Database Management Systems",
-          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+          "name": "Artificial Intelligence : Structures and Strategies for Complex Problem Solving",
+          "link": "https://drive.google.com/file/d/1TCQ_dMgcN7ZtBFJa4Uz8f1D1NLi6uwgC/view?usp=sharing"
         }
       ],
       "websites": [
         {
-          "name": "SQL Tutorial W3S",
+          "name": "AI Tutorial - javatpoint",
           "link": "https://medium.com/basecs"
         },
         {
-          "name": "DBMS Tutorial W3S",
+          "name": "AI Course - University of Texas",
           "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
         }
       ],
       "videos": [
         {
-          "name": "Learn MySQL in one video",
+          "name": "Artificial Intelligence - Well Academy",
           "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
         },
         {
-          "name": "DBMS Tutorial",
+          "name": "AI Course - Francisco Iacobelli",
           "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
         }
       ]
