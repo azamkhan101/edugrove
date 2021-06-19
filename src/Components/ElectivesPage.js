@@ -8,7 +8,7 @@ function ElectivesPage() {
     <div className='courses-page'>
       <h2>Electives</h2>
       <CategoryHeader category='Electives' />
-      <CourseGrid data={courseData.electives} />
+      <CourseGrid data={courseData.electives} category='electives' />
     </div>
   );
 }

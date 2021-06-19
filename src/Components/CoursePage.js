@@ -8,11 +8,11 @@ function CoursePage() {
     <div className='courses-page'>
       <h2>Courses</h2>
       <CategoryHeader category='First year' />
-      <CourseGrid data={courseData.first} />
+      <CourseGrid data={courseData.first} category='first' />
       <CategoryHeader category='Second year' />
-      <CourseGrid data={courseData.second} />
+      <CourseGrid data={courseData.second} category='second' />
       <CategoryHeader category='Third year' />
-      <CourseGrid data={courseData.third} />
+      <CourseGrid data={courseData.third} category='third' />
     </div>
   );
 }

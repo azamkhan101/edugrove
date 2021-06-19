@@ -493,10 +493,25 @@ body {
 .course-tile {
   height: 180px;
   width: 240px;
-  background-image: url("https://i.postimg.cc/Bb1MCKK8/trianglify-lowres.png");
   backdrop-filter: blur(9px);
   border-radius: 20px;
   margin: 10px;
+}
+
+.first {
+  background-image: url("https://i.postimg.cc/Bb1MCKK8/trianglify-lowres.png");
+}
+
+.second {
+  background-image: url("https://i.postimg.cc/WbR1xrhb/trianglify-lowres-1.png");
+}
+
+.third {
+  background-image: url("https://i.postimg.cc/Hx5fMJHB/trianglify-lowres-4.png");
+}
+
+.electives {
+  background-image: url("https://i.postimg.cc/s2G8FBBs/trianglify-lowres-5.png");
 }
 
 .course-tile p {
@@ -551,4 +566,8 @@ a .course-tile {
 
 .resource-name {
   padding: 18px;
+}
+
+.nav-tems {
+  display: flex;
 }

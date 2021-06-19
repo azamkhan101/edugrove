@@ -263,6 +263,534 @@
           "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
         }
       ]
+    },
+    {
+      "name": "Principles of Programming Languages",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Computer Networks",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Computer Architecture",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Theory of Computation",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Compiler Construction",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Design & Analysis of Algorithms",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Data Mining",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Information Retrieval",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Cryptography",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Number Theory",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Service Oriented Computing",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Quantum Computing",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
+    },
+    {
+      "name": "Foundations of Data Science",
+      "books": [
+        {
+          "name": "Database System Concepts",
+          "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
+        },
+        {
+          "name": "Database Management Systems",
+          "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
+        }
+      ],
+      "websites": [
+        {
+          "name": "SQL Tutorial W3S",
+          "link": "https://medium.com/basecs"
+        },
+        {
+          "name": "DBMS Tutorial W3S",
+          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+        }
+      ],
+      "videos": [
+        {
+          "name": "Learn MySQL in one video",
+          "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
+        },
+        {
+          "name": "DBMS Tutorial",
+          "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+        }
+      ]
     }
   ]
 }

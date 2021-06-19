@@ -10,6 +10,19 @@ class Navbar extends Component {
             <i class='fas fa-seedling'></i> EduGrove
           </h1>
         </Link>
+        <div className='nav-tems'>
+          <Link to='/courses'>
+            <h1>Courses</h1>
+          </Link>
+          <Link to='/electives'>
+            <h1>Electives</h1>
+          </Link>
+          <Link>
+            <h1>
+              <i class='fas fa-leaf'></i> 0
+            </h1>
+          </Link>
+        </div>
       </nav>
     );
   }
