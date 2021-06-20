@@ -103,31 +103,31 @@
       "name": "Object Oriented Programming",
       "books": [
         {
-          "name": "Database System Concepts",
+          "name": "Object Oriented Design & Patterns",
           "link": "https://drive.google.com/file/d/1nZpc4TKg92e5Ai9i2wtH3qJ7MGraIShD/view?usp=sharing"
         },
         {
-          "name": "Database Management Systems",
+          "name": "Java The Complete Reference",
           "link": "https://drive.google.com/file/d/1vzz398U-ayIBsFVPy_ochaZ5LBnUnq7h/view?usp=sharing"
         }
       ],
       "websites": [
         {
-          "name": "SQL Tutorial W3S",
+          "name": "Java Programming Language - GeeksforGeeks",
           "link": "https://medium.com/basecs"
         },
         {
-          "name": "DBMS Tutorial W3S",
+          "name": "Java Tutorial - Javatpoint",
           "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
         }
       ],
       "videos": [
         {
-          "name": "Learn MySQL in one video",
+          "name": "Java Tutorial for Beginners",
           "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
         },
         {
-          "name": "DBMS Tutorial",
+          "name": "Java (Beginner) Programming Tutorial",
           "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
         }
       ]
@@ -146,21 +146,17 @@
       ],
       "websites": [
         {
-          "name": "SQL Tutorial W3S",
+          "name": "Propositional Logic - Neso Academy",
           "link": "https://medium.com/basecs"
-        },
-        {
-          "name": "DBMS Tutorial W3S",
-          "link": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
         }
       ],
       "videos": [
         {
-          "name": "Learn MySQL in one video",
+          "name": "Predicate Logic - Trev Tutor",
           "link": "https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM"
         },
         {
-          "name": "DBMS Tutorial",
+          "name": "Logic Problem - Brilliant.Org",
           "link": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
         }
       ]
