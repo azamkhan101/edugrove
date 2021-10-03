@@ -4,9 +4,9 @@ import { Link } from "react-router-dom";
 class Navbar extends Component {
   render() {
     return (
-      <nav className='navbar bg-primary'>
+      <nav className='navbar bg-primary responsive-nav'>
         <Link to='/'>
-          <h1>
+          <h1 className='logo'>
             <i class='fas fa-seedling'></i> EduGrove
           </h1>
         </Link>
