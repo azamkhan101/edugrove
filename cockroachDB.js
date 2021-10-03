@@ -18,7 +18,7 @@ var sequelize = new Sequelize({
       ca: fs.readFileSync("./certs/cc-ca.crt").toString(),
     },
   },
-  logging: false,
+  logging: true,
 });
 // Define the Account model for the "accounts" table.
 const Points = sequelize.define("points", {
